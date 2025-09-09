@@ -49,14 +49,18 @@
 
 ## 📌 Featured Projects
 - [📂 SmartLedger](https://github.com/BonyAminAIUB/SmartLedger) – A smart ledger system project I am currently developing to manage and automate financial records.
-- [📂 C++ DS & Algorithms](https://github.com/BonyAminAIUB/Cpp-DS-Algo) – Collection of data structures and algorithm implementations in C++ for practice and problem-solving.
+- [📂 Tour Guide App](https://github.com/BonyAminAIUB/Java-Project) – A Java-based application where tourists and guides can **login/register**, **select each other**, make **payments**, and **track location**. Designed to provide a seamless travel experience.
+- [📂 C++ DS & Algorithms](https://github.com/BonyAminAIUB/DSA) – Collection of data structures and algorithm implementations in C++ for practice and problem-solving.
+- [📂 Codeforces Solutions](https://github.com/BonyAminAIUB/Codeforces) – My solutions for various Codeforces problems.
 - [📂 ML Experiments](https://github.com/BonyAminAIUB/ML-Experiments) – Machine Learning practice projects including basic models and datasets exploration.
+
 
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-bony-amin-50a653344/)
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.bony.amin.534899)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BonyAminAIUB)
 ---
 
 ⭐️ From [BonyAminAIUB](https://github.com/BonyAminAIUB)
