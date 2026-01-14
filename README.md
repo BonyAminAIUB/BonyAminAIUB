@@ -54,20 +54,6 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=BonyAminAIUB&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonyAminAIUB&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-
----
-
-## 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=BonyAminAIUB&theme=tokyonight&hide_border=true" />
-
----
-
 ## 🚀 Selected Projects
 - [📂 SmartTech Shop Management System](https://github.com/BonyAminAIUB/SmartTech_Shop_Management_System)
   A **C# Windows Forms–based offline shop management system** with role-based access for Admin, Salesman, and Manager.  
