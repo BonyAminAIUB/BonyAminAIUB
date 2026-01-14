@@ -48,13 +48,20 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonyAminAIUB&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BonyAminAIUB&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BonyAminAIUB&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonyAminAIUB&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BonyAminAIUB&theme=tokyonight)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BonyAminAIUB&theme=tokyonight"/>
+</p>
+
 
 ---
 
