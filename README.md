@@ -69,7 +69,7 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 ---
 
 ## 🚀 Selected Projects
-- [📂 SmartTech Shop Management System](...)
+- [📂 SmartTech Shop Management System](https://github.com/BonyAminAIUB/SmartTech_Shop_Management_System)
   A **C# Windows Forms–based offline shop management system** with role-based access for Admin, Salesman, and Manager.  
   Features include product management, sales & invoice generation, stock monitoring, and reporting.  
   Currently **fully functional and running**.
