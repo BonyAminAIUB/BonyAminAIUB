@@ -4,7 +4,7 @@
 
 I am a passionate Computer Engineering student with a strong focus on **backend development**, **database design (Oracle & MySQL)**, and building **scalable, maintainable systems**.  
 My goal is to write **clean, efficient, and well-structured code** while continuously learning new technologies and sharing knowledge with the community.  
-I enjoy **solving programming problems**, working on **real-world projects**, and exploring **Machine Learning** and modern frameworks like **C# and Java**.
+I enjoy **solving programming problems**, working on **real-world projects**, and exploring **Machine Learning** and modern frameworks like **C#, Java, Python**.
 
 ---
 
@@ -30,7 +30,7 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 📚 Frameworks & Libraries / ML Tools
+### 📚 ML Tools (Learning & Practice)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -39,16 +39,22 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 ### 🛢 Databases
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+### 🎨 Frontend Basics
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonyAminAIUB&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
@@ -58,20 +64,44 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BonyAminAIUB&theme=tokyonight"/>
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=BonyAminAIUB&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📌 Featured Projects
-- [📂 SmartLedger](https://github.com/BonyAminAIUB/SmartLedger) – A smart ledger system project I am currently developing to manage and automate financial records.
-- [📂 Tour Guide App](https://github.com/BonyAminAIUB/Java-Project) – A Java-based application where tourists and guides can **login/register**, **select each other**, make **payments**, and **track location**. Designed to provide a seamless travel experience.
-- [📂 C++ DS & Algorithms](https://github.com/BonyAminAIUB/DSA) – Collection of data structures and algorithm implementations in C++ for practice and problem-solving.
-- [📂 Codeforces Solutions](https://github.com/BonyAminAIUB/Codeforces) – My solutions for various Codeforces problems.
-- [📂 ML Experiments](https://github.com/BonyAminAIUB/ML-Experiments) – Machine Learning practice projects including basic models and datasets exploration.
+## 🚀 Selected Projects
+- [📂 SmartTech Shop Management System](...)
+  A **C# Windows Forms–based offline shop management system** with role-based access for Admin, Salesman, and Manager.  
+  Features include product management, sales & invoice generation, stock monitoring, and reporting.  
+  Currently **fully functional and running**.
 
+- [📂 Tour Guide App](https://github.com/BonyAminAIUB/Java-Project)  
+  A Java-based application where tourists and guides can **login/register**, **select each other**, make **payments**, and **track location**.  
+  Designed to provide a seamless travel experience.
+
+## 🧠 Practice & Learning Repositories
+- [📚 Basic Data Structure](https://github.com/BonyAminAIUB/Basic_Data_Structure)  
+  A repository covering **fundamental data structure implementations and practice** — great for building core algorithmic foundations.
+
+- [📘 Introduction to Algorithms](https://github.com/BonyAminAIUB/Introduction_to_Algorithms)  
+  A beginner-friendly repo focused on **algorithm basics and explanations** with sample implementations and notes.
+
+- [📂 Codeforces Solutions](https://github.com/BonyAminAIUB/Codeforces)  
+  My solutions for various Codeforces problems.
+
+- [💻 Introduction to C++](https://github.com/BonyAminAIUB/Introduction_to_C_plus_plus)  
+  A foundational repository for **C++ basics** — useful for beginners preparing for advanced topics in C++ and competitive programming.
+
+- [📘 Introduction to C Programming](https://github.com/BonyAminAIUB/Introduction_to_C_Programming)  
+  A beginner-friendly repo focused on **C programming fundamentals**, covering basic syntax, data types, and simple programs.
+
+- [🤖 Machine Learning Projects](https://github.com/BonyAminAIUB/Machine_Learning)  
+  A collection of **Machine Learning experiments and practice code**, including models, foundational dataset explorations, and hands-on ML implementations in Python.
+
+- [🐍 Python Basics](https://github.com/BonyAminAIUB/Python_basic)  
+  A practice repository covering **Python fundamental concepts and examples** — perfect for building strong Python foundations.
+
+- [📊 STL (Standard Template Library)](https://github.com/BonyAminAIUB/STL)  
+  A focused repository covering **C++ Standard Template Library** components like vectors, maps, sets, etc.
 
 ---
 
@@ -79,6 +109,7 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-bony-amin-50a653344/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.bony.amin.534899)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BonyAminAIUB)
+
 ---
 
 ⭐️ From [BonyAminAIUB](https://github.com/BonyAminAIUB)
