@@ -10,7 +10,6 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 
 ## 🧑‍💻 About Me
 - 🎓 Currently studying at **AIUB (American International University Bangladesh)**
-- 🔭 Working on a project called **SmartLedger**
 - 🌱 Recently completed **C++ Data Structures & Algorithms**, learning **Machine Learning**, and exploring **C# frameworks**
 - 👯 Interested to learn more about **Open Source Projects** in the near future
 - 🛢 Strong in **RDBMS (Oracle, MySQL)** and **PL/SQL programming**
