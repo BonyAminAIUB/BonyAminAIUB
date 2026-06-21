@@ -1,22 +1,24 @@
 # 👋 Hi, I'm Md Bony Amin
 
-🤖 Machine Learning Enthusiast | 💻 Problem Solver | 🌱 Passionate Developer
+🚀 Aspiring Software Engineer | 🌐 MERN Stack Developer | 💻 Problem Solver
 
-I am a passionate Computer Engineering student with a strong focus on **backend development**, **database design (Oracle & MySQL)**, and building **scalable, maintainable systems**.  
-My goal is to write **clean, efficient, and well-structured code** while continuously learning new technologies and sharing knowledge with the community.  
-I enjoy **solving programming problems**, working on **real-world projects**, and exploring **Machine Learning** and modern frameworks like **C#, Java, Python**.
+I am a passionate Computer Science & Engineering student with a strong focus on **backend development**, **relational database design**, and building **scalable, maintainable systems**. My goal is to write **clean, efficient, and well-structured code** while continuously learning new technologies and sharing knowledge with the community.  
+I enjoy solving programming problems, building real-world projects, and exploring modern technologies in Web Development, Software Engineering, and Backend Systems.
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Currently studying at **AIUB (American International University Bangladesh)**
-- 🌱 Recently completed **C++ Data Structures & Algorithms**, learning **Machine Learning**, and exploring **C# frameworks**
-- 👯 Interested to learn more about **Open Source Projects** in the near future
-- 🛢 Strong in **RDBMS (Oracle, MySQL)** and **PL/SQL programming**
-- 📈 Always open to **collaboration and new ideas**
-- 💬 Ask me about **C, C++, Python, Java, C# development, Web Development, ML basics, and Database programming**
-- 📫 How to reach me: mdbonyamin2002@gmail.com
-- ⚡ Fun fact: *I enjoy solving programming problems and exploring new tech!*
+- 🎓 CSE Student at AIUB (American International University-Bangladesh)
+- 🌱 Currently focused on MERN Stack Development
+- 💻 Exploring React, Node.js, Express.js, MongoDB, and RESTful APIs
+- 🔥 Building projects to strengthen my full-stack development skills
+- ⚙️ Learning and building backend applications with C# and ASP.NET Core
+- 📚 Completed C++ Data Structures & Algorithms
+- 🛢 Experienced with Relational Databases, SQL, PL/SQL, MySQL, Oracle, and SQL Server
+- 🤝 Interested in Open Source Contributions and Collaborative Development
+- 💬 Ask me about C, C++, JavaScript, Node.js, C#, Databases, and Web Development
+- 📫 Reach me at: mdbonyamin2002@gmail.com
+- ⚡ Fun Fact: I enjoy turning ideas into software and solving programming challenges.
 
 ---
 
@@ -29,21 +31,20 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 📚 ML Tools (Learning & Practice)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=TensorFlow&logoColor=orange)
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🛢 Databases
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### 🎨 Frontend Basics
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,7 +56,7 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 
 ## 🚀 Selected Projects
 - [📂 SmartTech Shop Management System](https://github.com/BonyAminAIUB/SmartTech_Shop_Management_System)
-  A **C# Windows Forms–based offline shop management system** with role-based access for Admin, Salesman, and Manager.  
+  A C# Windows Forms and SQL Server–based shop management system with role-based access control for Admin, Manager, and Salesman.  
   Features include product management, sales & invoice generation, stock monitoring, and reporting.  
   Currently **fully functional and running**.
 
@@ -98,3 +99,7 @@ I enjoy **solving programming problems**, working on **real-world projects**, an
 ---
 
 ⭐️ From [BonyAminAIUB](https://github.com/BonyAminAIUB)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonyAminAIUB&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BonyAminAIUB&layout=compact)
