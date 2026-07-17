@@ -55,6 +55,9 @@ I enjoy solving programming problems, building real-world projects, and explorin
 ---
 
 ## 🚀 Selected Projects
+- 🏫 **[School Management Website](https://github.com/BonyAminAIUB/Web_Tech_Mid_Lab_Work)**
+  A responsive **School Management Website** developed as a **group project** for the **Web Technologies** course at AIUB. Built using **HTML, CSS, and JavaScript**, this repository showcases my front-end development skills while documenting my learning journey in modern web development.
+  
 - [📂 SmartTech Shop Management System](https://github.com/BonyAminAIUB/SmartTech_Shop_Management_System)
   A C# Windows Forms and SQL Server–based shop management system with role-based access control for Admin, Manager, and Salesman.  
   Features include product management, sales & invoice generation, stock monitoring, and reporting.  
@@ -65,9 +68,6 @@ I enjoy solving programming problems, building real-world projects, and explorin
   Designed to provide a seamless travel experience.
 
 ## 🧠 Practice & Learning Repositories
-- 🏫 **[School Management Website](https://github.com/BonyAminAIUB/Web_Tech_Mid_Lab_Work)**
-  A responsive **School Management Website** developed as a **group project** for the **Web Technologies** course at AIUB. Built using **HTML, CSS, and JavaScript**, this repository showcases my front-end development skills while documenting my learning journey in modern web development.
-
 - 🌐 **[Simple Website](https://github.com/BonyAminAIUB/Simple_web_site_as1)**
   A beginner-friendly website created to practice **HTML** and **CSS** fundamentals. This repository reflects my continuous learning and serves as one of the first milestones in my **Full Stack Web Development** journey.
 
@@ -75,7 +75,7 @@ I enjoy solving programming problems, building real-world projects, and explorin
   A practice repository focused on building simple and responsive web pages using **HTML** and **CSS**. It represents my hands-on learning approach and helps strengthen the foundation for my **Full Stack Development** journey.
   
 - [📚 Basic Data Structure](https://github.com/BonyAminAIUB/Basic_Data_Structure)  
-  A repository covering **fundamental data structure implementations and practice** — great for building core algorithmic foundations.
+  A repository covering **fundamental data structure implementations and practice** - great for building core algorithmic foundations.
 
 - [📘 Introduction to Algorithms](https://github.com/BonyAminAIUB/Introduction_to_Algorithms)  
   A beginner-friendly repo focused on **algorithm basics and explanations** with sample implementations and notes.
@@ -84,7 +84,7 @@ I enjoy solving programming problems, building real-world projects, and explorin
   My solutions for various Codeforces problems.
 
 - [💻 Introduction to C++](https://github.com/BonyAminAIUB/Introduction_to_C_plus_plus)  
-  A foundational repository for **C++ basics** — useful for beginners preparing for advanced topics in C++ and competitive programming.
+  A foundational repository for **C++ basics** - useful for beginners preparing for advanced topics in C++ and competitive programming.
 
 - [📘 Introduction to C Programming](https://github.com/BonyAminAIUB/Introduction_to_C_Programming)  
   A beginner-friendly repo focused on **C programming fundamentals**, covering basic syntax, data types, and simple programs.
@@ -93,7 +93,7 @@ I enjoy solving programming problems, building real-world projects, and explorin
   A collection of **Machine Learning experiments and practice code**, including models, foundational dataset explorations, and hands-on ML implementations in Python.
 
 - [🐍 Python Basics](https://github.com/BonyAminAIUB/Python_basic)  
-  A practice repository covering **Python fundamental concepts and examples** — perfect for building strong Python foundations.
+  A practice repository covering **Python fundamental concepts and examples** - perfect for building strong Python foundations.
 
 - [📊 STL (Standard Template Library)](https://github.com/BonyAminAIUB/STL)  
   A focused repository covering **C++ Standard Template Library** components like vectors, maps, sets, etc.
