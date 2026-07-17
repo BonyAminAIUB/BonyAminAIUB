@@ -100,6 +100,10 @@ I enjoy solving programming problems, building real-world projects, and explorin
 
 ⭐️ From [BonyAminAIUB](https://github.com/BonyAminAIUB)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonyAminAIUB&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BonyAminAIUB&layout=compact)
+![Bony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonyAminAIUB&show_icons=true&theme=github_dark&cache_seconds=1800)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BonyAminAIUB&layout=compact&theme=github_dark&cache_seconds=1800)
