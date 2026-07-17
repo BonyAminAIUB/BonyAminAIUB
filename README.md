@@ -65,6 +65,15 @@ I enjoy solving programming problems, building real-world projects, and explorin
   Designed to provide a seamless travel experience.
 
 ## 🧠 Practice & Learning Repositories
+- 🏫 **[School Management Website](https://github.com/BonyAminAIUB/Web_Tech_Mid_Lab_Work)**
+  A responsive **School Management Website** developed as a **group project** for the **Web Technologies** course at AIUB. Built using **HTML, CSS, and JavaScript**, this repository showcases my front-end development skills while documenting my learning journey in modern web development.
+
+- 🌐 **[Simple Website](https://github.com/BonyAminAIUB/Simple_web_site_as1)**
+  A beginner-friendly website created to practice **HTML** and **CSS** fundamentals. This repository reflects my continuous learning and serves as one of the first milestones in my **Full Stack Web Development** journey.
+
+- 💻 **[Create a Simple Web Page](https://github.com/BonyAminAIUB/Create-a-simple-web-page)**
+  A practice repository focused on building simple and responsive web pages using **HTML** and **CSS**. It represents my hands-on learning approach and helps strengthen the foundation for my **Full Stack Development** journey.
+  
 - [📚 Basic Data Structure](https://github.com/BonyAminAIUB/Basic_Data_Structure)  
   A repository covering **fundamental data structure implementations and practice** — great for building core algorithmic foundations.
 
