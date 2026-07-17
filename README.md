@@ -102,8 +102,4 @@ I enjoy solving programming problems, building real-world projects, and explorin
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonyAminAIUB&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BonyAminAIUB&theme=github-dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BonyAminAIUB&layout=compact&theme=github_dark)
